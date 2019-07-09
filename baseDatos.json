@@ -1,0 +1,17 @@
+
+
+{
+    "soporte" : [
+        {
+            "mail" : "informa.bot@gmail.com"
+        },
+        {
+            "mail" : "vergara.i@gmail.com"
+        }
+    ],
+    "informatica" : [
+        {
+            "mail" : "yizu.carolina@gmail.com"
+        }
+    ]
+}
